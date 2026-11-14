@@ -14,3 +14,7 @@ Este proyecto fue realizado para practicar los comandos básicos de Git y aprend
 ## Cambios de la rama
 
 En esta rama se agregaron cambios para practicar el uso de ramas en Git.
+
+## Sincronización
+
+Este cambio se realizó desde una copia clonada del repositorio.
